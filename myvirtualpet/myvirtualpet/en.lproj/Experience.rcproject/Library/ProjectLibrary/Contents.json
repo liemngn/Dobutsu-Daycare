@@ -1,0 +1,27 @@
+[
+  {
+    "libraryIdentifier" : "91e3285194e30b667bcb23032991756d",
+    "format" : "model",
+    "displayName" : "Cat_Shorthair.usdz"
+  },
+  {
+    "libraryIdentifier" : "6da3855d57445123063d7e96d9644811",
+    "format" : "model",
+    "displayName" : "Bowl.usdz"
+  },
+  {
+    "libraryIdentifier" : "f41604117fd6f318b73c3acbfa2bc731",
+    "format" : "model",
+    "displayName" : "Paw.usdz"
+  },
+  {
+    "libraryIdentifier" : "e95195fd37369192eac6143e22c9025a",
+    "format" : "model",
+    "displayName" : "Hands.usdz"
+  },
+  {
+    "libraryIdentifier" : "c1c6181e9304af521eba053141d97367",
+    "format" : "model",
+    "displayName" : "Pillow.usdz"
+  }
+]

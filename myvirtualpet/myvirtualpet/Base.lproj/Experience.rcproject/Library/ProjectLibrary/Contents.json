@@ -1,0 +1,77 @@
+[
+  {
+    "libraryIdentifier" : "6da3855d57445123063d7e96d9644811",
+    "format" : "model",
+    "displayName" : "Bowl.usdz"
+  },
+  {
+    "libraryIdentifier" : "f41604117fd6f318b73c3acbfa2bc731",
+    "format" : "model",
+    "displayName" : "Paw.usdz"
+  },
+  {
+    "libraryIdentifier" : "e95195fd37369192eac6143e22c9025a",
+    "format" : "model",
+    "displayName" : "Hands.usdz"
+  },
+  {
+    "libraryIdentifier" : "c1c6181e9304af521eba053141d97367",
+    "format" : "model",
+    "displayName" : "Pillow.usdz"
+  },
+  {
+    "libraryIdentifier" : "6b39d2a665ada45c0f51d3de4c0a3ce8",
+    "format" : "audio",
+    "displayName" : "2020-04-24_-_Fancy_Party_-_FesliyanStudios.com_-_Steve_Oaks.mp3"
+  },
+  {
+    "libraryIdentifier" : "ceac43552ed504c8fd62f6b35ef6a274",
+    "format" : "model",
+    "displayName" : "Mouse.usdz"
+  },
+  {
+    "libraryIdentifier" : "d4b6def9f2e635163ed7fed088e5b205",
+    "format" : "model",
+    "displayName" : "Organic_Fresh_Milk_Bottle_1L.usdz"
+  },
+  {
+    "libraryIdentifier" : "f818ff0355c744cec0b7abcfc7905a59",
+    "format" : "model",
+    "displayName" : "Cardboard_Box.usdz"
+  },
+  {
+    "libraryIdentifier" : "e3440d5fba869e96a451453bac25a7c5",
+    "format" : "model",
+    "displayName" : "Dog_Idle.usdz"
+  },
+  {
+    "libraryIdentifier" : "168a16dadbdbdc1a03a783a37b3d3e00",
+    "format" : "model",
+    "displayName" : "Dog_Shaking.usdz"
+  },
+  {
+    "libraryIdentifier" : "9f0304c740397fc935539b0c7264a348",
+    "format" : "model",
+    "displayName" : "Beating_Heart.usdz"
+  },
+  {
+    "libraryIdentifier" : "ce7c8ca344246fd379a0b996b9495b2b",
+    "format" : "audio",
+    "displayName" : "Chew_Sound_Effect.mp3"
+  },
+  {
+    "libraryIdentifier" : "c90c69035ce44d834d927cdee812d4df",
+    "format" : "audio",
+    "displayName" : "Kibble_Pour.mp3"
+  },
+  {
+    "libraryIdentifier" : "c40c302cda9996330ac5e73907bf0b0f",
+    "format" : "model",
+    "displayName" : "Cat_Idle.usdz"
+  },
+  {
+    "libraryIdentifier" : "d46903fc749256b3c49cd6e7534f395b",
+    "format" : "audio",
+    "displayName" : "bensound-hipjazz.mp3"
+  }
+]
